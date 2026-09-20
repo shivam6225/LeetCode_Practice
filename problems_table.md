@@ -1,37 +1,3 @@
-# LeetCode Practice
-
-Welcome to my personal LeetCode practice repository! This space is dedicated to improving my problem-solving skills, mastering data structures and algorithms, and practicing data engineering SQL concepts.
-
-## 📂 Repository Structure
-
-The repository is organized by topics to keep the solutions well-structured:
-
-### 1. Data Engineering SQL
-Contains solutions to database and SQL-related problems on LeetCode. 
-- **Language**: SQL
-- **Focus**: Writing optimized queries, table joins, aggregations, and data manipulation.
-
-### 2. Data Structures
-Contains solutions to algorithmic problems focusing on core computer science concepts.
-- **Language**: Java
-- **Focus**: Arrays, Strings, HashMaps, Trees, Graphs, Dynamic Programming, and more.
-
-## 📈 Progress Tracking
-- **Data Engineering SQL**: 58 problems solved
-- **Data Structures**: 19 problems solved
-
-## 🚀 Goals
-- Consistently solve problems to improve algorithmic thinking.
-- Write clean, readable, and optimized code.
-- Prepare for technical interviews by mastering common patterns.
-
-## 🛠️ Tech Stack
-- **Java** (Algorithms & Data Structures)
-- **Python** (Algorithms & Data Structures)
-- **SQL** (Database Queries)
-
-## 📝 Solved Problems
-
 ### Data Engineering SQL
 | # | Title | Solution |
 |---|---|---|
@@ -107,7 +73,7 @@ Contains solutions to algorithmic problems focusing on core computer science con
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [FindNumbersWithEvenNumberOfDigits.java](Data%20Structures/FindNumbersWithEvenNumberOfDigits.java) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [FindPeakElement.java](Data%20Structures/FindPeakElement.java) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [FindSmallestLetterGreaterThanTarget.java](Data%20Structures/FindSmallestLetterGreaterThanTarget.java) |
-| 34 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) | [FirstAndLastPositionOfElementInSortedArrays.java](Data%20Structures/FirstAndLastPositionOfElementInSortedArrays.java) |
+| 1972 | [First and Last Call On the Same Day](https://leetcode.com/problems/first-and-last-call-on-the-same-day/) | [FirstAndLastPositionOfElementInSortedArrays.java](Data%20Structures/FirstAndLastPositionOfElementInSortedArrays.java) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [IntegersSmallerThanCurrentNumber.java](Data%20Structures/IntegersSmallerThanCurrentNumber.java) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [KidsWithGreatestNumberOfCandies.java](Data%20Structures/KidsWithGreatestNumberOfCandies.java) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [NumberOfGoodPairs.java](Data%20Structures/NumberOfGoodPairs.java) |
@@ -119,6 +85,3 @@ Contains solutions to algorithmic problems focusing on core computer science con
 | 929 | [Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) | [UniqueEmailAddresses.java](Data%20Structures/UniqueEmailAddresses.java) |
 
 
-
----
-*Keep coding, keep learning!*
