@@ -16,6 +16,10 @@ Contains solutions to algorithmic problems focusing on core computer science con
 - **Language**: Java
 - **Focus**: Arrays, Strings, HashMaps, Trees, Graphs, Dynamic Programming, and more.
 
+## 📈 Progress Tracking
+- **Data Engineering SQL**: 58 problems solved
+- **Data Structures**: 19 problems solved
+
 ## 🚀 Goals
 - Consistently solve problems to improve algorithmic thinking.
 - Write clean, readable, and optimized code.
