@@ -4,7 +4,7 @@ class Solution {
         int start =0;
         int end = letters.length -1;
 
-        if(target>=letters[end]) return letters[0];
+        //if(target>=letters[end]) return letters[0];
 
         while(start<=end){
             int mid = start + (end-start)/2;
@@ -17,7 +17,7 @@ class Solution {
             }
         }
 
-        return letters[start];
+        return letters[start%(letters.length)];
         
     }
 }
