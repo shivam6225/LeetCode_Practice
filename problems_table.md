@@ -19,10 +19,12 @@
 | 569 | [Median Employee Salary](https://leetcode.com/problems/median-employee-salary/) | [FindCumulativeSalariesEmployee.sql](Data%20Engineering%20SQL/FindCumulativeSalariesEmployee.sql) |
 | 1613 | [Find the Missing IDs](https://leetcode.com/problems/find-the-missing-ids/) | [FindTheMissingIds.sql](Data%20Engineering%20SQL/FindTheMissingIds.sql) |
 | 1303 | [Find the Team Size](https://leetcode.com/problems/find-the-team-size/) | [FindTheTeamSize.sql](Data%20Engineering%20SQL/FindTheTeamSize.sql) |
+| 1667 | [Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) | [FixNamesInTable.sql](Data%20Engineering%20SQL/FixNamesInTable.sql) |
 | 1495 | [Friendly Movies Streamed Last Month](https://leetcode.com/problems/friendly-movies-streamed-last-month/) | [FridenlyMoviesStreamedLastMonth.sql](Data%20Engineering%20SQL/FridenlyMoviesStreamedLastMonth.sql) |
 | 602 | [Friend Requests II: Who Has the Most Friends](https://leetcode.com/problems/friend-requests-ii-who-has-the-most-friends/) | [FriendRequestII.sql](Data%20Engineering%20SQL/FriendRequestII.sql) |
 | 511 | [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) | [GamesAnalysisI.sql](Data%20Engineering%20SQL/GamesAnalysisI.sql) |
 | 550 | [Game Play Analysis IV](https://leetcode.com/problems/game-play-analysis-iv/) | [GamesAnalysisIV.sql](Data%20Engineering%20SQL/GamesAnalysisIV.sql) |
+| 1484 | [Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/) | [GroupSoldProductsByTheDate.sql](Data%20Engineering%20SQL/GroupSoldProductsByTheDate.sql) |
 | 601 | [Human Traffic of Stadium](https://leetcode.com/problems/human-traffic-of-stadium/) | [HumanTrafficStadium.sql](Data%20Engineering%20SQL/HumanTrafficStadium.sql) |
 | 1174 | [Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) | [ImmediateFoodDeliveryII.sql](Data%20Engineering%20SQL/ImmediateFoodDeliveryII.sql) |
 | 585 | [Investments in 2016](https://leetcode.com/problems/investments-in-2016/) | [Investments2016.sql](Data%20Engineering%20SQL/Investments2016.sql) |
@@ -34,7 +36,9 @@
 | 1421 | [NPV Queries](https://leetcode.com/problems/npv-queries/) | [NPVQueries.sql](Data%20Engineering%20SQL/NPVQueries.sql) |
 | 620 | [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) | [NotBoringMovies.sql](Data%20Engineering%20SQL/NotBoringMovies.sql) |
 | 177 | [Nth Highest Salary](https://leetcode.com/problems/nth-highest-salary/) | [NthHighestSalary_177.sql](Data%20Engineering%20SQL/NthHighestSalary_177.sql) |
+| 1699 | [Number of Calls Between Two Persons](https://leetcode.com/problems/number-of-calls-between-two-persons/) | [NumberOfCallsBetweenTwo.sql](Data%20Engineering%20SQL/NumberOfCallsBetweenTwo.sql) |
 | 2798 | [Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/) | [NumberOfEmployessWhichReportEachEmployee.sql](Data%20Engineering%20SQL/NumberOfEmployessWhichReportEachEmployee.sql) |
+| 1527 | [Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) | [PatientsWithACondition.sql](Data%20Engineering%20SQL/PatientsWithACondition.sql) |
 | 1633 | [Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) | [PercentageUserAttendedContest.sql](Data%20Engineering%20SQL/PercentageUserAttendedContest.sql) |
 | 1164 | [Product Price at a Given Date](https://leetcode.com/problems/product-price-at-a-given-date/) | [ProductPriceAtAGivenTable.sql](Data%20Engineering%20SQL/ProductPriceAtAGivenTable.sql) |
 | 1068 | [Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) | [ProductSalesAnalysisI.sql](Data%20Engineering%20SQL/ProductSalesAnalysisI.sql) |
@@ -58,24 +62,30 @@
 | 1741 | [Find Total Time Spent by Each Employee](https://leetcode.com/problems/find-total-time-spent-by-each-employee/) | [TotalTimeSpentByEachEmployee.sql](Data%20Engineering%20SQL/TotalTimeSpentByEachEmployee.sql) |
 | 610 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/) | [TriangleJudgement.sql](Data%20Engineering%20SQL/TriangleJudgement.sql) |
 | 262 | [Trips and Users](https://leetcode.com/problems/trips-and-users/) | [TripsAndUsers.sql](Data%20Engineering%20SQL/TripsAndUsers.sql) |
+| 2356 | [Number of Unique Subjects Taught by Each Teacher](https://leetcode.com/problems/number-of-unique-subjects-taught-by-each-teacher/) | [UniqueSubjectsTaughtByTeacher.sql](Data%20Engineering%20SQL/UniqueSubjectsTaughtByTeacher.sql) |
 | 1141 | [User Activity for the Past 30 Days I](https://leetcode.com/problems/user-activity-for-the-past-30-days-i/) | [UserActivityforPart30daysI.sql](Data%20Engineering%20SQL/UserActivityforPart30daysI.sql) |
+| 1517 | [Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/) | [UsersWithValidEmail.sql](Data%20Engineering%20SQL/UsersWithValidEmail.sql) |
 | 1571 | [Warehouse Manager](https://leetcode.com/problems/warehouse-manager/) | [WarehouseManager.sql](Data%20Engineering%20SQL/WarehouseManager.sql) |
 
 ### Data Structures
 | # | Title | Solution |
 |---|---|---|
+| 989 | [Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) | [AddToArrayFormInteger.java](Data%20Structures/AddToArrayFormInteger.java) |
 | 1920 | [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) | [BuildArrayFromPermutation.java](Data%20Structures/BuildArrayFromPermutation.java) |
 | 1832 | [Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) | [CheckIfPangram.java](Data%20Structures/CheckIfPangram.java) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | [ConcatenationOfArray.java](Data%20Structures/ConcatenationOfArray.java) |
+| 1773 | [Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/) | [CountItemsMatchingRule.java](Data%20Structures/CountItemsMatchingRule.java) |
 | 1389 | [Create Target Array in the Given Order](https://leetcode.com/problems/create-target-array-in-the-given-order/) | [CreateTargetArrayInGivenOrder.java](Data%20Structures/CreateTargetArrayInGivenOrder.java) |
 | 1281 | [Subtract the Product and Sum of Digits of an Integer](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/) | [DifferenceOfProductandSumofDigits.java](Data%20Structures/DifferenceOfProductandSumofDigits.java) |
 | 1095 | [Find in Mountain Array](https://leetcode.com/problems/find-in-mountain-array/) | [FindInMountainArray.java](Data%20Structures/FindInMountainArray.java) |
 | 1295 | [Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/) | [FindNumbersWithEvenNumberOfDigits.java](Data%20Structures/FindNumbersWithEvenNumberOfDigits.java) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | [FindPeakElement.java](Data%20Structures/FindPeakElement.java) |
 | 744 | [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) | [FindSmallestLetterGreaterThanTarget.java](Data%20Structures/FindSmallestLetterGreaterThanTarget.java) |
+| 1732 | [Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) | [FindTheHighestAltitude.java](Data%20Structures/FindTheHighestAltitude.java) |
 | 1972 | [First and Last Call On the Same Day](https://leetcode.com/problems/first-and-last-call-on-the-same-day/) | [FirstAndLastPositionOfElementInSortedArrays.java](Data%20Structures/FirstAndLastPositionOfElementInSortedArrays.java) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | [IntegersSmallerThanCurrentNumber.java](Data%20Structures/IntegersSmallerThanCurrentNumber.java) |
 | 1431 | [Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) | [KidsWithGreatestNumberOfCandies.java](Data%20Structures/KidsWithGreatestNumberOfCandies.java) |
+| 1854 | [Maximum Population Year](https://leetcode.com/problems/maximum-population-year/) | [MaximumPossibleYear.java](Data%20Structures/MaximumPossibleYear.java) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | [NumberOfGoodPairs.java](Data%20Structures/NumberOfGoodPairs.java) |
 | 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | [PeakIndexInMountainArray.java](Data%20Structures/PeakIndexInMountainArray.java) |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [RichestCustomerWealth.java](Data%20Structures/RichestCustomerWealth.java) |
